@@ -4,21 +4,19 @@ Module Resto_Divison
 
     Sub Main(args As String())
 
-        Dim Valor1, Valor2, Valor3 As Integer
+        Dim Valor1, Valor2 As Integer
 
-        Valor1 = Valor2 = Valor3 = 0
+        Valor1 = Valor2 = 0
 
-        Console.WriteLine("Quiere saber el resto de un numero?" & vbCrLf)
+        Console.WriteLine("Resto de un valor dividido por 2: " & vbCrLf)
         Console.WriteLine("Ingre un numero entero: ")
         Valor1 = Console.ReadLine()
-        Console.WriteLine("Ingrese por cuanto quiere dividirlo: ")
-        Valor2 = Console.ReadLine()
 
 
-        Valor3 = Valor1 Mod Valor2
+        Valor2 = Valor1 Mod 2
 
 
-        Console.WriteLine("El resto de la siguiente operacion: " & Valor1 & "/" & Valor2 & " es: " & Valor3 & vbCrLf)
+        Console.WriteLine("El resto de la siguiente operacion: " & Valor1 & "/" & 2 & " es: " & Valor2 & vbCrLf)
 
 
 
