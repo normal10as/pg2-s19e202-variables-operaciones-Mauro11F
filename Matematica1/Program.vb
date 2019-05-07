@@ -1,12 +1,6 @@
 Imports System
 Imports System.Math
 
-'Crear un proyecto y un módulo llamado “Matematica1” 
-'para ingresar un número por teclado y mostrar:    su 
-'valor absoluto,   el resultado de elevarlo a la décima 
-'potencia raíz cuadrada
-
-
 
 Module Matematica_1
 
