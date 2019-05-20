@@ -37,6 +37,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Reloj", "Reloj\Reloj.vbproj
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ajustar_Reloj", "Ajustar_Reloj\Ajustar_Reloj.vbproj", "{9DE96B75-7F80-4337-B510-DC7A6DE6004F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nueva_Fecha", "Nueva_Fecha\Nueva_Fecha.vbproj", "{ECC0BA45-D815-469A-BEE6-BC7A7BEAEC0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{9DE96B75-7F80-4337-B510-DC7A6DE6004F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE96B75-7F80-4337-B510-DC7A6DE6004F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE96B75-7F80-4337-B510-DC7A6DE6004F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC0BA45-D815-469A-BEE6-BC7A7BEAEC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC0BA45-D815-469A-BEE6-BC7A7BEAEC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC0BA45-D815-469A-BEE6-BC7A7BEAEC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC0BA45-D815-469A-BEE6-BC7A7BEAEC0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
