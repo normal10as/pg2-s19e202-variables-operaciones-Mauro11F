@@ -33,6 +33,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cadenas 1", "Cadenas 1\Cade
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Refrase", "Refrase\Refrase.vbproj", "{C6669E68-AFB8-4D9C-A501-D1A8F2C33152}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Reloj", "Reloj\Reloj.vbproj", "{ABD3FFEB-CF5C-4777-8CDD-EC0C3BB9459F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ajustar_Reloj", "Ajustar_Reloj\Ajustar_Reloj.vbproj", "{9DE96B75-7F80-4337-B510-DC7A6DE6004F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{C6669E68-AFB8-4D9C-A501-D1A8F2C33152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6669E68-AFB8-4D9C-A501-D1A8F2C33152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6669E68-AFB8-4D9C-A501-D1A8F2C33152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD3FFEB-CF5C-4777-8CDD-EC0C3BB9459F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD3FFEB-CF5C-4777-8CDD-EC0C3BB9459F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD3FFEB-CF5C-4777-8CDD-EC0C3BB9459F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD3FFEB-CF5C-4777-8CDD-EC0C3BB9459F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE96B75-7F80-4337-B510-DC7A6DE6004F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE96B75-7F80-4337-B510-DC7A6DE6004F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE96B75-7F80-4337-B510-DC7A6DE6004F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE96B75-7F80-4337-B510-DC7A6DE6004F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
