@@ -7,13 +7,41 @@ Imports System
 'corresponde al resultado
 
 Module Dias
+
+    Enum SemanaDias
+
+        Domingo = 1
+
+        Lunes
+
+        Martes
+
+        Miercoles
+
+        Jueves
+
+        Viernes
+
+        Sabado
+
+    End Enum
+
     Sub Main(args As String())
 
-        ' ----------TERMINAR----------
+        Console.WriteLine("{0} su valor: {1}", SemanaDias.Domingo.ToString, SemanaDias.Domingo.GetHashCode)
 
-        Console.WriteLine("Hello World!")
+        Console.WriteLine("{0} su valor: {1}", SemanaDias.Lunes.ToString, SemanaDias.Lunes.GetHashCode)
 
+        Console.WriteLine("{0} su valor: {1}", SemanaDias.Martes.ToString, SemanaDias.Martes.GetHashCode)
 
+        Console.WriteLine("{0} su valor: {1}", SemanaDias.Miercoles.ToString, SemanaDias.Miercoles.GetHashCode)
+
+        Console.WriteLine("{0} su valor: {1}", SemanaDias.Jueves.ToString, SemanaDias.Jueves.GetHashCode)
+
+        Console.WriteLine("{0} su valor: {1}", SemanaDias.Viernes.ToString, SemanaDias.Viernes.GetHashCode)
+
+        Console.WriteLine("{0} su valor: {1}", SemanaDias.Sabado.ToString, SemanaDias.Sabado.GetHashCode)
 
     End Sub
+
 End Module
